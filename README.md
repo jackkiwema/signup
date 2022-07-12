@@ -1,4 +1,4 @@
-# signup page
+# signup page [signup.zoomfibre.co.ke]
 
-## Signing up page for new clients
+## Sign up page for new clients
 
