@@ -1,4 +1,4 @@
-# [signup page] (https://signup.zoomfibre.co.ke)
+# Signup Portal
 
-## Sign up page for new clients
+## [Sign up page](https://signup.zoomfibre.co.ke) for new clients
 
